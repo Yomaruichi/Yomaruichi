@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 I'm currently studying in University of the Philippines as a Computer Science student
+- 🎮 I love playing video games
+- 📄 Currently learning Java
